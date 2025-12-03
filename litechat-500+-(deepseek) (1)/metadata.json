@@ -1,0 +1,5 @@
+{
+  "name": "LiteChat 500+ (DeepSeek)",
+  "description": "A lightweight, dual-mode chatbot. Features a local rule-based engine with over 1000+ preset responses and a smart DeepSeek AI mode for complex queries.",
+  "requestFramePermissions": []
+}
